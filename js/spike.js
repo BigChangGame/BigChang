@@ -4,7 +4,7 @@ const spikedata = [
           "title": "PUBG MOBILE VNG V2",
               "version": "3.9",
               "image": "https://i.imgur.com/LTMCdc7.jpeg",
-              "image-demo": "https://i.imgur.com/u2YoDSe.jpeg",
+              "image-demo": "https://i.imgur.com/zVVLxfi.jpeg",
               "description": "✅MENU FULL CHỨC NĂNG! \n ✅ESP An toàn! \n ✅Aimbot \n ✅ModSkin \n ✅Nhiều chức năng khác! \n ✅Nhiều chức năng khác! \n ✅ANTIBAN",
               "download_url": "https://yeumoney.com/Tg-3sMD",
               "updated_at": "2025-07-17",
