@@ -1,7 +1,7 @@
 const freefiredata = [
         {
         "title": "FreeFire Menu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/f0/88/00f08867-9cfc-7718-fb66-b829298dc7ea/AppIcon-1747240258-1x_U007emarketing-0-8-0-85-220-0.png/434x0w.webp",
+        "image": "https://play-lh.googleusercontent.com/jHnf_3-yMox_Tub_oLKQ7OuOi8Iahf1f4rdu-etZ2hmzUOekY84znct-c8hksxhD15PYNk4dMH2ZdVY3uxm7Gw=w480-h960",
         "image-demo": "https://i.imgur.com/o21QUcT.jpeg",
         "description": "✅LƯU Ý: Không Bật Aim để tránh văng Game \n✅ESP \n✅Aimbot \n✅Bypass Fix ban \n✅Fake Lag \n✅Antiban \n✅Antiban(Phòng) \n✅Antiban(Tử chiến) \n✅Antiban(Huấn Luyện)",
         "download_url": "https://yeumoney.com/wVmOzO",
